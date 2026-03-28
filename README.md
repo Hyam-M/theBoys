@@ -1,16 +1,14 @@
 # 🦸 The Boys
 
 Project created as the final activity of the discipline **Programming I** at **UFPR**.
-<<<<<<< HEAD
 ---
 <div style="text-align: center;">
   <img src="https://movievaures.wordpress.com/wp-content/uploads/2020/09/giphy.gif" width="400">
 </div>
 
-=======
+
 
 ---
->>>>>>> b90d0fa4ac368f18c0909f959faf1919e5137c63
 
 ## 📌 Descrição
 
